@@ -1,0 +1,12 @@
+.sidebar {
+    font-family: 'Playfair Display', serif;
+    min-width: 400px;
+}
+
+.sidebar-checkout-button {
+    font-family: 'Nunito', sans-serif;
+}
+
+.sidebar-item-list {
+    height: calc(80vh - 172px);
+}

@@ -1,0 +1,13 @@
+@media only screen and (min-width: 551px) {
+    .display-component {
+        min-width: 250px;
+        min-height: 250px;
+    }
+}
+
+@media only screen and (max-width: 550px) {
+    .display-component {
+        min-width: 200px;
+        min-height: 150px;
+    }
+}

@@ -1,0 +1,7 @@
+.sidebar-item {
+    min-height: 160px;
+}
+
+.sidebar-item img {
+    max-height: 200px;
+}
